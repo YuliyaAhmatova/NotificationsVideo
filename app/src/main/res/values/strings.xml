@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">NotificationsVideo</string>
+    <string name="simple_notification">Simple Notification</string>
+    <string name="bigtextstyle_notification">BigTextStyle Notification</string>
+    <string name="bigpicturesstylen_notification">BigPicturesStylen Notification</string>
+    <string name="inboxstyle_notification">InboxStyle Notification</string>
+    <string name="action_notification">Action Notification</string>
+</resources>
